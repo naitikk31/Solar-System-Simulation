@@ -1,0 +1,28 @@
+# === Build Artifacts ===
+cpp/build/
+java/build/
+*.o
+*.obj
+*.exe
+*.class
+
+# === IDE ===
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# === OS ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Java ===
+*.jar
+!lib/*.jar
+
+# === Temp ===
+*.log
+*.tmp
