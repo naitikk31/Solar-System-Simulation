@@ -19,6 +19,21 @@
 
 ---
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="screenshots/inner-planets.png" width="48%" alt="Inner planets with labels"/>
+  &nbsp;
+  <img src="screenshots/overview.png" width="48%" alt="Overview with planet labels"/>
+</p>
+<p align="center">
+  <img src="screenshots/orbital-trails.png" width="48%" alt="Orbital trails zoomed in"/>
+  &nbsp;
+  <img src="screenshots/full-system.png" width="48%" alt="Full system with outer planets"/>
+</p>
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
